@@ -1,0 +1,14 @@
+     @font-face {
+            font-family: 'OpenSans';
+            src: url('assets/OpenSans-Light.ttf') format('truetype'); 
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        body {
+            font-family: 'OpenSans', monospace; 
+            background-color: #ffffff; 
+            color: #000000; 
+        }
+
+
